@@ -29,7 +29,7 @@ export default function Register() {
 
   return (
     <div className="min-h-screen flex items-center justify-center px-6 py-12 relative">
-      {/* Animated Background Elements */}
+     
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-16 right-16 w-36 h-36 bg-gradient-to-r from-purple-600/10 to-pink-600/10 rounded-full blur-2xl animate-float"></div>
         <div className="absolute bottom-16 left-16 w-44 h-44 bg-gradient-to-r from-indigo-600/10 to-purple-600/10 rounded-full blur-2xl animate-float-delayed"></div>

@@ -23,7 +23,7 @@ const Navigation = () => {
               <span className="text-2xl font-bold bg-gradient-to-r from-purple-400 via-pink-400 to-purple-600 bg-clip-text text-transparent">
                 TalentHub
               </span>
-              <span className="text-xs text-purple-400/60 font-medium">AI Recruitment</span>
+             
             </div>
           </div>
 
